@@ -26,3 +26,6 @@ This project demonstrates how to use your OpenAI API to make queries to GPT-4 fr
 · !pip install openai==0.28
 
 - In the script for making GPT queries, you can use "content": input(" "), to write queries in the input rather than in the code.
+
+## Troubleshooting
+- If you encounter any errors during execution, make sure all libraries are up to date and that your OpenAI API key is correctly set up in the API_openai.ipynb file.
